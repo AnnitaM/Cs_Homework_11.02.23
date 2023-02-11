@@ -1,0 +1,15 @@
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\bin\Debug\net6.0\Task_035.exe
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\bin\Debug\net6.0\Task_035.deps.json
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\bin\Debug\net6.0\Task_035.runtimeconfig.json
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\bin\Debug\net6.0\Task_035.dll
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\bin\Debug\net6.0\Task_035.pdb
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\obj\Debug\net6.0\Task_035.csproj.AssemblyReference.cache
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\obj\Debug\net6.0\Task_035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\obj\Debug\net6.0\Task_035.AssemblyInfoInputs.cache
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\obj\Debug\net6.0\Task_035.AssemblyInfo.cs
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\obj\Debug\net6.0\Task_035.csproj.CoreCompileInputs.cache
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\obj\Debug\net6.0\Task_035.dll
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\obj\Debug\net6.0\refint\Task_035.dll
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\obj\Debug\net6.0\Task_035.pdb
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\obj\Debug\net6.0\Task_035.genruntimeconfig.cache
+C:\Users\annit\OneDrive\Рабочий стол\GeekBrains\C#\10.02.23_Homework\Task_035\obj\Debug\net6.0\ref\Task_035.dll
